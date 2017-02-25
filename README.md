@@ -1,2 +1,3 @@
 # Hello-World
-Ideas, scratches, etc.
+
+Ideas, scratches, etc. Nothing especially...
